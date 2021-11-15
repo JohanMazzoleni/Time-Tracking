@@ -1,0 +1,22 @@
+{
+  "name": "time_tracking_dashboard-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w css/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanMazzoleni/Time-Tracking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanMazzoleni/Time-Tracking/issues"
+  },
+  "homepage": "https://github.com/JohanMazzoleni/Time-Tracking#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
